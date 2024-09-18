@@ -13,7 +13,17 @@
       <pubDate>Tue, 11 Oct 2022 22:10:36 +0800</pubDate>
       
       <guid>https://vhensexh.github.io/kulun/en/posts/aaonlytech/</guid>
-      <description>修改网页显示行数量 post-entry.css文件中.entry-content{-webkit-line-clamp} 修改网页中显示行数量</description>
+      <description>&lt;h1 id=&#34;修改网页显示行数量&#34;&gt;修改网页显示行数量&lt;/h1&gt;
+&lt;p&gt;post-entry.css文件中.entry-content{-webkit-line-clamp}  修改网页中显示行数量&lt;/p&gt;
+&lt;h1 id=&#34;sublime-text批量在行首或行尾添加字符串的方法&#34;&gt;Sublime Text批量在行首或行尾添加字符串的方法&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;选中要操作的行&lt;/li&gt;
+&lt;li&gt;使用快捷键CTRL+shift+L，进入到待操作状态&lt;/li&gt;
+&lt;li&gt;使用左右方向键（←或者→），批量操作行首就按左方向键，批量操作行尾就按右方向键&lt;/li&gt;
+&lt;li&gt;在选定合适的位置，键入要添加的字符串&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;一个正则&#34;&gt;一个正则&lt;/h1&gt;
+&lt;p&gt;\n(?=\w) 段落内空格&lt;/p&gt;</description>
     </item>
     
   </channel>
