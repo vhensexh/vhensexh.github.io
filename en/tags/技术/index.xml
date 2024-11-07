@@ -23,7 +23,11 @@
 &lt;li&gt;在选定合适的位置，键入要添加的字符串&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h1 id=&#34;一个正则&#34;&gt;一个正则&lt;/h1&gt;
-&lt;p&gt;\n(?=\w) 段落内空格&lt;/p&gt;</description>
+&lt;p&gt;\n(?=\w) 段落内空格&lt;/p&gt;
+&lt;p&gt;\s([。.!?\，]) 标点&lt;br&gt;
+([。.!?\，：…])标点+&lt;br&gt;
+([。.!?\”，」？：…~、])标点++&lt;br&gt;
+([一-龥])\n\b&lt;/p&gt;</description>
     </item>
     
   </channel>
